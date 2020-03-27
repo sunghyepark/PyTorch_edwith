@@ -17,6 +17,7 @@ https://wikidocs.net/book/2788
     - conda activate name_of_my_env : 설정한 가상환경으로  
     - conda list : 뭘 깔았는지 확인
 - PyTorch 설치
+    - https://pytorch.org/get-started/locally/
 
 
 # 2. Part-1 Basic ML
