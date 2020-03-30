@@ -24,4 +24,5 @@ https://wikidocs.net/book/2788
 
 ## 1) Tensor Manipulations 
 
-- d
+## 2) Linear Regression 
+
