@@ -26,3 +26,7 @@ https://wikidocs.net/book/2788
 
 ## 2) Linear Regression 
 
+## 3) Minimizing Cost 
+
+## 4) Multivariable
+
